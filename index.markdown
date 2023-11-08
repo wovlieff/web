@@ -1,9 +1,5 @@
 ---
-title: Welcome to Power Automate Gitbook
-author: Tao He
-date: 2022-02-04
-category: Jekyll
-layout: post
+layout: home
 ---
 
 ## What is this website?
